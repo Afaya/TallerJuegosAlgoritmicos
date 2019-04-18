@@ -1,0 +1,2 @@
+# TallerJuegosAlgoritmicos
+Este taller lo hemos impartido en varias ocasiones, variando los diferentes juegos algorítmicos. En todas las ocasiones la finalidad es la misma, acercar el pensamiento lógico y las bases matemáticas de la programación a los más pequeños y a aquellas personas que no se encuentran familiarizados con ellas. Las dinámicas que se crean permiten mediante el juego adquirir de forma divertida ciertos conceptos básicos.
